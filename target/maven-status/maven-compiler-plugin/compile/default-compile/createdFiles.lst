@@ -1,0 +1,5 @@
+com\judy\project\controller\TestController.class
+com\judy\project\service\TestService.class
+com\judy\project\mapper\TestMapper.class
+com\judy\project\service\impl\TestServiceImpl.class
+com\judy\project\model\Test.class
